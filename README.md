@@ -1,2 +1,2 @@
 # circleci-docker
-project for first deployment 
+Sample meteor project configure with circle ci docker for first deployment.
